@@ -73,6 +73,11 @@ An end-to-end retail analytics project simulating an electronics retail business
 
 `SQL Server` `Python` `Power BI` `DAX`
 
+## 🛒 Retail Analytics
+
+![Retail Analytics Dashboard](./images/retail-dashboard.png)
+
+
 👉 **[View Retail Analytics Project](https://github.com/mhmd-swidan/Retail-Analytics-End-to-End-Data-Analytics-Project)**
 
 ---
@@ -99,6 +104,12 @@ An interactive HR analytics dashboard analyzing employee performance, compensati
 ### Tools
 
 `Python` `Power BI` `DAX`
+
+
+## 👥 Technova HR Analytics
+
+![HR Analytics Dashboard](./images/hr-dashboard.png)
+
 
 👉 **[View Technova HR Analytics Project](https://github.com/mhmd-swidan/Tecknova--HR--analysis)**
 ---

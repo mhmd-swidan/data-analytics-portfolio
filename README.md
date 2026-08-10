@@ -75,7 +75,7 @@ An end-to-end retail analytics project simulating an electronics retail business
 
 ## 🛒 Retail Analytics
 
-![Retail Analytics Dashboard](./images/retail-dashboard.png)
+![Retail Analytics Dashboard](./images/executive-overview.png)
 
 
 👉 **[View Retail Analytics Project](https://github.com/mhmd-swidan/Retail-Analytics-End-to-End-Data-Analytics-Project)**
@@ -108,7 +108,7 @@ An interactive HR analytics dashboard analyzing employee performance, compensati
 
 ## 👥 Technova HR Analytics
 
-![HR Analytics Dashboard](./images/hr-dashboard.png)
+![HR Analytics Dashboard](./images/attrition-page.png)
 
 
 👉 **[View Technova HR Analytics Project](https://github.com/mhmd-swidan/Tecknova--HR--analysis)**
